@@ -1,4 +1,4 @@
-# CS33520
+# CS3520
 ## 4.3 exercise 3
 1. Grain Counting (Makopokopo): Given a quantity of grains in litres, determine and display how many
  makokopo (20L) it makes and how much remains.
