@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     string days[] = {
-        "Mosupatsela", "Labobedi", "Laboraro", "Labone", 
+        "Mantaha", "Labobeli", "Laboraro", "Labone", 
         "Labohlano", "Moqebelo", "Sontaha"
     };
     
